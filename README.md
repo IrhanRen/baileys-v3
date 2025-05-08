@@ -1,6 +1,6 @@
 # <div align='center'>Baileys - Typescript/Javascript WhatsApp Web API</div>
 
-<div align="center"><img src="https://iili.io/2Zpjtlp.jpg"></div>
+<div align="center"><img src="https://files.catbox.moe/yxhz89.jpg"></div>
 
 ## Important Note
 
@@ -11,12 +11,12 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:nstar-y/bail"
+    "baileys": "github:Irhanren/baileys-v3"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:nstar-y/bail
+npm install baileys@github:Irhanren/baileys-v3
 ```
 
 Then import the default function in your code:
@@ -296,7 +296,7 @@ if(usePairingCode && !sock.authState.creds.registered) {
 ```
 
 ## Reporting Issues
-If you encounter any issues while using this repository or any part of it, please feel free to open a [new issue](https://github.com/nstar-y/Bail/issues) here.
+If you encounter any issues while using this repository or any part of it, please feel free to open a [new issue](https://github.com/Irhanren/baileys-v3/issues) here.
 
 ## Notes
 Everything other than the modifications mentioned above remains the same as the original repository. You can check out the original repository at [WhiskeySockets](https://github.com/WhiskeySockets/Baileys)
